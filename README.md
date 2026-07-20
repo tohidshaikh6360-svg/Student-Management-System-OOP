@@ -11,7 +11,6 @@ This is a console-based Student Management System developed in C++. It uses Obje
 4. Delete Student
 5. Display All Students
 6. Save Data to File
-7. Load Data from File
 
 ## Technologies Used
 1. C++
@@ -28,6 +27,9 @@ This is a console-based Student Management System developed in C++. It uses Obje
 ## How to Run
 Compile the program:
 g++ main.cpp -o StudentManagementSystem
+
+## Improvements
+1. Load Data from File
 
 ## Author
 Tohid Shaikh
