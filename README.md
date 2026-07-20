@@ -2,7 +2,6 @@
 2nd Semester project using c++ OOP (Student Management System)
 
 # Student Management System
-Description
 This is a console-based Student Management System developed in C++. It uses Object-Oriented Programming (OOP) and File Handling to manage student records. The program allows users to add, search, update, delete, display, save, and load student information.
 
 ## Features
@@ -19,15 +18,19 @@ This is a console-based Student Management System developed in C++. It uses Obje
 2. Object-Oriented Programming (OOP)
 3. File Handling
 
+## Concepts Used
+1. Classes and Objects
+2. Constructors
+3. Functions
+4. File Handling
+5. Dynamic Memory
+
 ## How to Run
 Compile the program:
 g++ main.cpp -o StudentManagementSystem
 
-## Run the program:
-./StudentManagementSystem
-For Windows:
-StudentManagementSystem.exe
-
 ## Author
 Tohid Shaikh
+
+
 
