@@ -31,6 +31,13 @@ g++ main.cpp -o StudentManagementSystem
 ## Improvements
 1. Load Data from File
 
+## Output 
+
+
+https://github.com/user-attachments/assets/313b18e0-6923-4ba5-ab48-f22376fa8c5a
+
+
+
 ## Author
 Tohid Shaikh
 
